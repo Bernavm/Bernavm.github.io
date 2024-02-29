@@ -1,0 +1,76 @@
+body{
+    color: rgb(0, 0, 0);
+    background-image:url("raton cursed.jpg") ;
+    background-size: contain;
+}  
+h1{
+    color: rgb(0, 0, 0);
+    font-family: monospace
+}
+.margen{
+    margin: 100px 100px 100px 30px;
+}
+#fondo1{
+    background-image: url("fondo1.jpg");
+}
+#fondo2{
+    background-image: url("fondo2.jpg");
+}
+#fondo3{
+    background-image: url("fondo3.jpg");
+}
+#fondo4{
+    background-image: url("fondo4.jpg");
+}#fondo5{
+    background-image: url("fondo5.jpg");
+}
+#fondo6{
+    background-image: url("fondo6.jpg");
+}
+#fondo7{
+    background-image: url("fondo7.jpg");
+}
+#fondo8{
+    background-image: url("fondo8.jpg");
+}
+#fondo9{
+    background-image: url("fondo9.jpg");
+}
+#fondo0{
+    background-image: url("fondo0.jpg");
+}
+#cb{
+    color: firebrick;
+}
+#ddf{
+    color: firebrick;
+}
+#en{
+    color: firebrick;
+}
+#idu{
+    color: firebrick;
+}
+#ptpc{
+    color: firebrick;
+}
+#pr{
+    color: firebrick;
+}
+#prs{
+    color: firebrick;
+}
+#si{
+    color: firebrick;
+}
+#se{
+    color: firebrick;
+}
+#vs{
+    color: firebrick;
+}
+p{
+    background-color: rgba(255, 255, 255, 0.315);
+    margin: 0px 200px;
+    border: 3px blueviolet dashed;
+}
